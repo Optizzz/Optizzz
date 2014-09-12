@@ -1,0 +1,10 @@
+header {
+	height: 70px;
+	background: #111111;
+}
+
+@media screen and (max-width: 320px) {
+	header {
+		text-align: center;
+	}
+}
